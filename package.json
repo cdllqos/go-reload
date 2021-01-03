@@ -8,6 +8,14 @@
   "main": "main.js",
   "scripts": {},
   "author": "mystic",
+  "keywords": [
+    "golang",
+    "hot-reload"
+  ],
+  "repository": {
+    "url": "https://github.com/cdllqos/go-reload.git",
+    "type": "git"
+  },
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {
