@@ -1,6 +1,6 @@
 {
   "name": "go-reload",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a tool for auto run \"go run main.go\"",
   "bin": {
     "go-reload": "main.js"
@@ -9,10 +9,10 @@
   "scripts": {},
   "author": "mystic",
   "license": "ISC",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "chokidar": "^3.4.3",
     "colors": "^1.4.0",
     "rxjs": "^6.6.3"
-  },
-  "dependencies": {}
+  }
 }
