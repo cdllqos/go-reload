@@ -1,6 +1,6 @@
 {
   "name": "go-reload",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a tool for auto run \"go run main.go\"",
   "bin": {
     "go-reload": "main.js"
